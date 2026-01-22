@@ -17,7 +17,6 @@ The instrument includes a combination of Likert-scale and categorical questions 
 
 ## Survey Instrument
 
-- **File:** `AI_Supported_Communication_Survey.pdf`
 - **Respondents:** Developers and graduate students with experience in collaborative software development
 - **Sample size:** 34 complete responses (per-item N varies)
 
