@@ -18,7 +18,7 @@ The instrument includes a combination of Likert-scale and categorical questions 
 ## Survey Instrument
 
 - **Respondents:** Developers and graduate students with experience in collaborative software development
-- **Sample size:** 34 complete responses (per-item N varies)
+- **Sample size:** 34 valid responses
 
 The survey questions are organized into constructs that align with the analysis presented in the paper, including:
 - Communication challenges
